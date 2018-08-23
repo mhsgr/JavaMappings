@@ -20,7 +20,7 @@ import com.sap.aii.mapping.api.OutputPayload;
 import com.sap.aii.mapping.api.TransformationInput;
 import com.sap.aii.mapping.api.TransformationOutput;
 
-import de.arbeitsagentur.po.AddNewNamespace.AddNewNamespace;
+import de.mhsgr.po.AddNewNamespace.AddNewNamespace;
 
 
 
